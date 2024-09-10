@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.navbar{
+    background-color: #0f1111;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:60px;
+    color: white;
+
+}
+.amazonlogo{
+    height: 30px;
+}
+.locicon{
+    display: flex;
+}
+.addres{
+    display:flex;
+    justify-content: center;
+}
+.searchbar{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(220, 227, 233);
+    height: 30px;
+    width: 40%;
+
+}
+.addres i{
+    color: white;
+}
+.addres h2{
+    color: white;
+}
+.addres h5{
+    color: white;
+}
+.lang{
+    display: flex;
+}
+.lang h5{
+    color: white;
+}
+.account{
+    
+}
+.account h2{
+    color: white;
+}
+.account h5{
+    color: white;
+}   
+.order{
+}
+.order h2{
+    color: white;
+}
+.order h5{
+    color: white;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding: right 10%;
+}
+.cart h5{
+    color: white;
+}
+.cart i{
+    color: white;
+}
+
+
+
